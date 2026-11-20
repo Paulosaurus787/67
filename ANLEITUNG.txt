@@ -1,13 +1,13 @@
-Heaven's Wrath fuer Minecraft 26.1.2 (Fabric, nur Client)
+Heaven's Wrath fuer Minecraft 26.2 (Fabric, nur Client)
 
 === So bekommst du die .jar ===
-1. Kostenloses Konto auf github.com, dann "New repository" (z. B. "heavens-wrath-26.1.2").
+1. Kostenloses Konto auf github.com, dann "New repository" (z. B. "heavens-wrath-26.2").
 2. ZIP entpacken und ALLE Dateien/Ordner hochladen (Add file > Upload files),
    auch den versteckten Ordner ".github" (sonst startet der Build nicht).
 3. Reiter "Actions" oeffnen, den Lauf "Build" abwarten (ca. 3 Minuten).
-4. Auf den Lauf klicken, unten bei "Artifacts" "heavens-wrath-26.1.2-jar" herunterladen.
+4. Auf den Lauf klicken, unten bei "Artifacts" "heavens-wrath-26.2-jar" herunterladen.
 5. In der ZIP liegt die .jar -> im NoRisk Client zum Profil hinzufuegen.
-   Das Profil braucht Fabric + Fabric API fuer 26.1.2 (Java 25).
+   Das Profil braucht Fabric + Fabric API fuer 26.2 (Java 25).
 
 === Menue oeffnen ===
 Taste K (in den Tasteneinstellungen unter "Heaven's Wrath" aenderbar) oder /killeffect.
